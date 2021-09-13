@@ -1,0 +1,16 @@
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\bin\Debug\net5.0\desafiosnumericos.exe
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\bin\Debug\net5.0\desafiosnumericos.deps.json
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\bin\Debug\net5.0\desafiosnumericos.runtimeconfig.json
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\bin\Debug\net5.0\desafiosnumericos.runtimeconfig.dev.json
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\bin\Debug\net5.0\desafiosnumericos.dll
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\bin\Debug\net5.0\ref\desafiosnumericos.dll
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\bin\Debug\net5.0\desafiosnumericos.pdb
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\obj\Debug\net5.0\desafiosnumericos.csproj.AssemblyReference.cache
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\obj\Debug\net5.0\desafiosnumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\obj\Debug\net5.0\desafiosnumericos.AssemblyInfoInputs.cache
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\obj\Debug\net5.0\desafiosnumericos.AssemblyInfo.cs
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\obj\Debug\net5.0\desafiosnumericos.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\obj\Debug\net5.0\desafiosnumericos.dll
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\obj\Debug\net5.0\ref\desafiosnumericos.dll
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\obj\Debug\net5.0\desafiosnumericos.pdb
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\desafiosnumericos\obj\Debug\net5.0\desafiosnumericos.genruntimeconfig.cache

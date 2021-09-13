@@ -1,0 +1,16 @@
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\lucia\Bootcamp-Avanade\AplicaçãoConsole\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
